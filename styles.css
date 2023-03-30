@@ -220,6 +220,13 @@ hr{
             margin-top: 2rem;
             margin-bottom: 2rem;
         }
+     .footer-card-text h3 {
+         font-size: 0.9rem;
+        }
+        
+    .footer-card-text p {
+        font-size: 0.8rem;
+       }
     }
     
 
